@@ -1,6 +1,7 @@
-# Hi, I'm Isabella 👋
+![Isabella Siu](./profile-banner.svg)
+# About Me 
 
-CS student at RPI (AI/ML specialization, Cognitive Science minor, graduating May 2027), 
+Hi 👋🏻  I'm Isabella, CS student at RPI (AI/ML specialization, Cognitive Science minor, graduating May 2027), 
 building toward a career in AI/ML engineering with a focus on financial data systems. 
 Currently a Technology, Infrastructure & Operations Analyst on MUFG's Data Strategy team, 
 and a Break Through Tech Fellow (selected from 4,300+ applicants).
