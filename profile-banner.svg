@@ -1,0 +1,38 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F7EFE3"/>
+      <stop offset="100%" stop-color="#EDE0CC"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect x="0" y="0" width="1200" height="300" rx="18" fill="url(#bg)"/>
+
+  <!-- minimal corner line-art (top left) -->
+  <g stroke="#B49A73" stroke-width="6" stroke-linecap="round" opacity="0.55" fill="none">
+    <path d="M 40 60 Q 90 30, 140 55"/>
+    <path d="M 55 90 Q 105 60, 155 85"/>
+    <path d="M 30 100 Q 60 130, 30 160"/>
+  </g>
+
+  <!-- minimal corner line-art (bottom right) -->
+  <g stroke="#B49A73" stroke-width="6" stroke-linecap="round" opacity="0.55" fill="none">
+    <path d="M 1060 245 Q 1110 215, 1160 240"/>
+    <path d="M 1075 215 Q 1125 185, 1170 210"/>
+    <path d="M 1170 140 Q 1140 170, 1170 200"/>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#3B2F22">
+    Isabella Siu
+  </text>
+
+  <!-- divider -->
+  <line x1="470" y1="180" x2="730" y2="180" stroke="#B49A73" stroke-width="1.5"/>
+
+  <!-- handle / links row -->
+  <text x="600" y="215" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="19" letter-spacing="2" fill="#6B5B45">
+    github.com/isabella-c-siu &#160;&#160;·&#160;&#160; linkedin.com/in/isabella-c-siu
+  </text>
+</svg>
