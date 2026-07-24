@@ -14,11 +14,49 @@ Tools: Python, HuggingFace Transformers, NLP, LLM Evaluation
 See the full project here → [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard)
 
 ## 🛠 Tech Stack
-- **Languages:** Python, Java, C++, C, SQL, JavaScript, HTML, CSS
-- **ML/AI:** Hugging Face, Scikit-learn, LangGraph, Multi-Agent Orchestration, RAG, NLP, LLM Evaluation, Prompt Engineering
-- **Cloud:** AWS (S3, EC2, Lambda), AWS Bedrock, Docker, Linux
-- **Frameworks:** React Native, Expo, Flask, Supabase, PostgreSQL
-- **Tools:** Git, GitHub, Jupyter/Colab
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**ML / AI**
+
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A4C93?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3D5A?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Orchestration-1C3D5A?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6A4C93?style=for-the-badge)
+![LLM Eval](https://img.shields.io/badge/LLM%20Evaluation-6A4C93?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6A4C93?style=for-the-badge)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Frameworks**
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## 🚀 Projects
 - **Contributed to [Open-Finance-Lab/FinLLM-Leaderboard](https://github.com/Open-Finance-Lab/FinLLM-Leaderboard)** — see Featured Project above
@@ -31,7 +69,8 @@ See the full project here → [Open-Finance-Lab/FinLLM-Leaderboard](https://gith
 [LinkedIn](https://linkedin.com/in/isabella-c-siu) · isabella.c.siu@gmail.com
 
 ## 📊 GitHub Stats
+
 <p align="left">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=isabella-c-siu&show_icons=true&theme=graywhite&hide_border=true&hide_rank=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isabella-c-siu&layout=compact&theme=graywhite&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=isabella-c-siu&show_icons=true&hide_rank=true&hide_border=true&bg_color=F7EFE3&title_color=3B2F22&text_color=6B5B45&icon_color=B49A73" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=isabella-c-siu&layout=compact&hide_border=true&bg_color=F7EFE3&title_color=3B2F22&text_color=6B5B45&icon_color=B49A73" />
 </p>
